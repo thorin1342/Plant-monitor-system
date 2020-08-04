@@ -7,7 +7,7 @@ In order to setup the system
 3.	Registering of simulator into the IoT hub choose any unique device id with location same as the IoT hub
 4.	On creation of device a primary connection string is received enter it into the coding area of the simulator
 5.	In order to run the code type npm start
-6.	The console area will show the following 
+6.	The console area will show that its sending the data
 
 7.	The data collection has been started now we send it to IoT hub
 8.	In order to communicate live data from simulator for visualization we have the following two steps
